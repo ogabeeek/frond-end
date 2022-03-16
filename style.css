@@ -51,6 +51,10 @@
     padding: 17px 57px;
 }
 
+.lear-div2{
+    margin-top: 100px;
+}
+
 .lear__div{
     display: flex;
     align-items: center;
@@ -98,6 +102,10 @@
     margin: 0 auto;
 }
 
+.about-div3{
+    margin-top: 100px;
+}
+
 .about-hedding{
     font-family: "Poppins";
     font-style: normal;
@@ -105,6 +113,8 @@
     font-size: 48px;
     line-height: 80px;
     color: #000000;
+    text-align: center;
+    margin-bottom: 96px;
 }
 
 .spek-list{
@@ -351,6 +361,11 @@
     color: #8F95A5;
 }
 
+.self__div2{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
 .self-div{
     margin: 0 auto;
     text-align: center;
@@ -441,6 +456,8 @@
 .your__div{
     display: flex;
     justify-content: space-between;
+    margin-top: 280px;
+    margin-bottom: 180px;
 }
 
 .your-div{
@@ -492,6 +509,7 @@
 .footer-div{
     display: flex;
     justify-content: space-between;
+    margin-top: 50px;
 }
 
 .footer-link{
