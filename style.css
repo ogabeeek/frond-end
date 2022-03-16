@@ -4,12 +4,15 @@
 }
 
 .header{
+    width: 1180px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
     position: fixed;
-    background-color: rgba(33, 33, 46, 0.589);
+    left: 70px;
 }
 
 .container{
-    width: 1308px;
+    width: 1180px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -18,6 +21,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 1170px;
 }
 
 .header-list{
@@ -39,7 +43,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
-    color: #dae6ec;
+    color: #0c0c0c;
 }
 
 .header-link2{
