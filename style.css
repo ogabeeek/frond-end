@@ -39,7 +39,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
-    color: #263238;
+    color: #dae6ec;
 }
 
 .header-link2{
@@ -54,6 +54,8 @@
     box-sizing: border-box;
     border-radius: 5px;
     padding: 17px 57px;
+    background-color: rgb(36, 36, 46);
+    color: #FFFFFF;
 }
 
 .lear-div2{
